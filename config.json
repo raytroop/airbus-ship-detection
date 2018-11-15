@@ -1,0 +1,9 @@
+{
+    "LEARNING_RATE": 0.001,
+    "TRAIN_PATH": "dataset/train_v2",
+    "TEST_PATH": "dataset/test_v2",
+    "ORIG_SZ": 768,
+    "COCO_WEIGHTS_PATH": "assert/mask_rcnn_coco.h5",
+    "TRN_FOLD": "folds/cv5trn{}.csv",
+    "VAL_FOLD": "folds/cv5val{}.csv"
+}
